@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837757611449",
+    "project_id": "uas-mobile-programming-3aea1",
+    "storage_bucket": "uas-mobile-programming-3aea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837757611449:android:e62ab6a8d53f4afd0f5a68",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobile_programming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4U6cmz5G04T8X-EoZDopQYNiF3kQWtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
